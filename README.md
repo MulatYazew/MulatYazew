@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @MulatYazew
 - 👀 I’m interested in computer programming using Python, Java, HTML, CSS, JavaScript, PHP, MySQL and C++
+- I have also experience in microprocessor interfacing like ARM microprocesor and Raspberry Pi using C language
+- Additionally, I can configure networking devices like switches, routers and I can install them.
 - 🌱 I’m currently full stack Web developer
 - 💞️ I’m looking to collaborate on full stack Web development and Machine learning Projects
 - 📫 How to reach me ...
