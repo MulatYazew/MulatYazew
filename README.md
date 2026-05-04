@@ -1,5 +1,5 @@
-# 🧠 Mulat Yazew Chekol  
-### AI Engineer | Computer Engineer | MSc in Artificial Intelligence
+# 👋 Hi, I'm Mulat Yazew Chekol  
+### 🧠 AI Engineer | Computer Engineer | Applied AI Researcher  
 
 📍 Milan, Italy  
 📧 mulatyazewchekol@gmail.com  
@@ -8,122 +8,126 @@
 ---
 
 ## 🚀 About Me
-I’m an AI Engineer and Computer Engineer with a strong blend of **academic AI training** and **real-world systems experience**.  
-Currently pursuing an MSc in **Artificial Intelligence for Science and Technology** at:
+I’m an **AI Engineer and Computer Engineer** currently pursuing an MSc in **Artificial Intelligence for Science and Technology** at:
 
 - University of Milano-Bicocca  
 - University of Milan  
 - University of Pavia  
 
-I focus on building **intelligent, real-world AI systems** — from deep learning pipelines to autonomous AI agents.
+I specialize in building **intelligent systems that operate in real-world environments** — combining deep learning, embedded AI, and autonomous agents.
+
+💡 My focus is not just models — but **end-to-end systems** that are:
+- Scalable  
+- Reliable  
+- Impact-driven  
 
 ---
 
-## 🔬 What I Do
-I design and build AI systems that solve practical problems:
-
-- 🧠 **Computer Vision & Deep Learning** (PyTorch, TensorFlow, OpenCV)  
-- 🤖 **LLM-powered Autonomous Agents**  
-- ⚙️ **Embedded Machine Learning** (Raspberry Pi, ARM microcontrollers)  
-- 📊 **Predictive Analytics & ML Pipelines**  
+## 🔬 Research & Interests
+- 🤖 Embodied AI & Autonomous Systems  
+- 🧠 Visual-Language Models & Multimodal AI  
+- ⚙️ Embedded AI & Edge Intelligence  
+- 🔐 Trustworthy AI & Agentic Systems  
+- 📊 Data-Driven Optimization  
 
 ---
 
-## 💼 Technical Foundation
-Before fully transitioning into AI, I worked as a:
+## 💼 Experience
 
-**Junior Information System Officer**  
-📍 Commercial Bank of Ethiopia  
+### 🧪 Machine Learning Intern — Saiket Systems
+- Built a **customer churn prediction system** using ML classification models  
+- Performed **EDA, feature engineering, and model evaluation**  
+- Developed a **deployment-ready ML pipeline in Python**  
 
-- Managed enterprise IT infrastructure for 100+ users  
-- Administered Active Directory and network systems  
-- Supported secure, scalable system operations  
+### 🏦 Junior Information System Officer — Commercial Bank of Ethiopia
+- Managed IT infrastructure for **100+ users**  
+- Administered **Active Directory & network systems**  
+- Ensured **secure and scalable system operations**  
 
-👉 This experience gives me an edge:  
-I don’t just build models — I understand how to **deploy and scale systems in real environments**.
+👉 This experience gives me a unique edge:  
+**I understand both AI models and real-world system deployment at scale.** :contentReference[oaicite:0]{index=0}
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Agentic AI Fraud Detection
-- Built an **LLM-based autonomous fraud detection system**  
-- Combined reasoning + rule-based decision logic  
-- Focus: trustworthy AI & intelligent automation  
+### 🧠 Agentic AI Fraud Detection
+- Designed an **autonomous AI system using LLM agents**  
+- Combined **LLM reasoning + rule-based logic**  
+- Focus: **trustworthy AI & intelligent decision-making**  
 
 ---
 
-### 🔹 Customer Churn Prediction
-- End-to-end ML pipeline (Random Forest, XGBoost)  
-- Feature engineering + deployment-ready system  
-
----
-
-### 🔹 AI Breast Cancer Detection
+### 🩺 AI Breast Cancer Detection System
 - Multi-stage pipeline using:
-  - YOLO (detection)
-  - U-Net (segmentation)
-  - ResNet (classification)
-- Focus: medical AI & computer vision  
+  - YOLO → detection  
+  - U-Net → segmentation  
+  - ResNet → classification  
+- Built with **PyTorch**  
+- Focus: **medical AI & real-world decision support**  
 
 ---
 
-### 🔹 Voice Recognition Home Automation
-- Embedded ML system using Raspberry Pi  
-- Real-time voice control for smart devices  
+### 🎤 Voice Recognition Home Automation
+- Embedded ML system using **Raspberry Pi**  
+- Real-time voice-controlled automation  
+- Focus: **edge AI & human-machine interaction**  
 
 ---
 
-### 🔹 Digital Audio Recorder
-- Built using C on ARM/LPC microcontrollers  
-- Low-level system design & signal handling  
+### 📊 Customer Churn Prediction Pipeline
+- End-to-end ML system using **Random Forest & XGBoost**  
+- Feature engineering + deployment-ready pipeline  
 
 ---
 
-### 🔹 CPU Design (Computer Architecture)
-- Designed a processor using Proteus  
-- Applied digital systems and architecture concepts  
+### ⚙️ Embedded & Systems Projects
+- 🔊 Digital Audio Recorder (C, ARM microcontrollers)  
+- 🖥️ CPU Design (Proteus-based architecture simulation)  
+- 🧠 Image Recognition (MATLAB, DSP techniques)  
 
 ---
 
-## 🧠 Skills
+## 🧠 Technical Skills
 
 ### AI & Machine Learning
 - PyTorch, TensorFlow, OpenCV  
 - Deep Learning, Computer Vision  
-- LLM Agents, Predictive Modeling  
+- LLM Agents, Predictive Analytics  
 
 ### Programming
 - Python, C/C++, Java, JavaScript  
 - MATLAB, Shell Scripting  
+
+### Embedded & Hardware
+- Raspberry Pi, Arduino  
+- ARM Microcontrollers  
+- Proteus, LTSpice  
 
 ### Systems & Infrastructure
 - Linux, Windows, Active Directory  
 - Networking (LAN, routers, switches)  
 - MySQL, DBMS  
 
-### Embedded Systems
-- Raspberry Pi, Arduino  
-- ARM Microcontrollers  
-- Proteus, LTSpice  
-
 ---
 
 ## 🌍 What Drives Me
-I’m passionate about building **context-aware AI solutions for African challenges**.
+I’m passionate about building **AI solutions that create real impact**, especially for **African challenges**.
 
 I believe AI should be:
 - Accessible  
 - Practical  
+- Scalable  
 - Impactful  
 
-My goal is to work on systems that deliver **real, measurable impact** — in healthcare, automation, and intelligent infrastructure.
+🎯 My mission:  
+To develop **intelligent systems that improve lives through real-world applications**.
 
 ---
 
 ## 🏆 Leadership
 
-- 👑 President — State of Technology and Arts Club  
+- 👑 President — State of Technology & Arts Club  
 - 🚀 Active Member — Ethiopian Space Science Society  
 - 📘 Volunteer Tutor — Mathematics & Physics (Grades 10–12)  
 
@@ -138,17 +142,17 @@ My goal is to work on systems that deliver **real, measurable impact** — in he
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Collaborate
 
 I’m open to:
-- AI research collaborations  
+- AI research & innovation  
 - ML engineering projects  
-- Computer vision & embedded AI systems  
-- Innovative real-world AI applications  
+- Computer vision & embedded AI  
+- Agentic AI systems & real-world applications  
 
 📧 **mulatyazewchekol@gmail.com**  
-🔗 **https://linkedin.com/in/mulat-yazewchekol**
+🔗 **linkedin.com/in/mulat-yazewchekol**
 
 ---
 
-⭐️ *“Building intelligent systems that create real-world impact.”*
+⭐️ *“I don’t just build AI models — I build intelligent systems that work in the real world.”*
