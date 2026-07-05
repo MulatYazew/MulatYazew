@@ -165,17 +165,6 @@ I value clean code, transparent communication, and delivering solutions that cre
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MulatYazew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MulatYazew&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌍 What Drives Me
 
 I'm passionate about building AI solutions that create real impact, especially for **African challenges**. I believe AI should be **accessible, practical, scalable, and impactful**.
